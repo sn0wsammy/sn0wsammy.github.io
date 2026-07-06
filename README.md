@@ -1,7 +1,7 @@
 
 👋 Hi, Welcome to my personal website
 
-sn0wsammy.github.io.
+bashsammy.github.io.
 
 My repository website consists of my social links and personal certifications and such.
 Take a peek and add me!
