@@ -27,9 +27,9 @@ div{
   padding: 0;
 }
 body{
- background-image: url('https://c4.wallpaperflare.com/wallpaper/52/909/130/anime-anime-girls-canaan-wallpaper-preview.jpg');  
-   background-size: cover;
-   background-repeat: repeat-y;
+ background-image: url('3010509.jpg');  
+   /*background-size: full;*/
+   
  }
 .container{
 border: #002D62;
@@ -58,7 +58,7 @@ a {
 }
 
 button {
-    background-color: #a8b95d; /* Green */
+    background-color: #9577e6; /* Green */
     color: white;              /* Text color */
     padding: 15px 32px;       /* Padding */
     border: none;             /* No border */
